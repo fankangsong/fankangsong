@@ -1,0 +1,22 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fankangsong/notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fankangsong/notebook/issues"
+  },
+  "homepage": "https://github.com/fankangsong/notebook#readme",
+  "devDependencies": {
+    "directory-tree": "^3.5.1"
+  }
+}
