@@ -17,7 +17,7 @@ const build = async () => {
   const { children: list } = dirTree(DIR, dirTreeOptions);
 
   const markdownContent = list.map(item => {
-    return `* [${item.name}](./contents/${item.name}.md)`
+    return `* [${item.name}](./contents/${item.name}/${item.name}.md)`
   });
 
   let content = `# 目录 \n\r`;
