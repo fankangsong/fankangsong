@@ -24,3 +24,4 @@
 * [https://github.com/Kingwl/monaco-volar](https://github.com/Kingwl/monaco-volar)
 * [https://github.com/johnsoncodehk/volar/discussions/598](https://github.com/johnsoncodehk/volar/discussions/598)
 * [https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor](https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor)
+* [Monaco/web worker support](https://github.com/johnsoncodehk/volar/discussions/598)
