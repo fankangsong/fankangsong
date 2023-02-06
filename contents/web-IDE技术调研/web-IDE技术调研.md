@@ -27,3 +27,8 @@
 * [https://github.com/johnsoncodehk/volar/discussions/598](https://github.com/johnsoncodehk/volar/discussions/598)
 * [https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor](https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor)
 * [Monaco/web worker support](https://github.com/johnsoncodehk/volar/discussions/598)
+
+## monaco
+
+* [WebIDE 的开发记录其五（monaco-editor + textmate）](https://ubug.io/blog/workpad-part-5)
+* [手把手教你实现在Monaco Editor中使用VSCode主题](https://www.cnblogs.com/wanglinmantan/p/15345204.html)
