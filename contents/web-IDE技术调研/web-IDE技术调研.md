@@ -23,6 +23,7 @@
 * [Add .vue files as a supported language #1204](https://github.com/microsoft/monaco-editor/issues/1204)
 * [https://github.com/Kingwl/monaco-volar](https://github.com/Kingwl/monaco-volar)
 * [Volar (Fast Vue Language Support) extension for coc.nvim](https://github.com/yaegassy/coc-volar)
+* [volar: Explore high-performance tooling for Vue](https://github.com/johnsoncodehk/volar)
 * [https://github.com/johnsoncodehk/volar/discussions/598](https://github.com/johnsoncodehk/volar/discussions/598)
 * [https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor](https://stackoverflow.com/questions/71196848/how-to-connect-volar-to-monaco-editor)
 * [Monaco/web worker support](https://github.com/johnsoncodehk/volar/discussions/598)
