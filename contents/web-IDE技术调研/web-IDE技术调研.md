@@ -32,3 +32,8 @@
 
 * [WebIDE 的开发记录其五（monaco-editor + textmate）](https://ubug.io/blog/workpad-part-5)
 * [手把手教你实现在Monaco Editor中使用VSCode主题](https://www.cnblogs.com/wanglinmantan/p/15345204.html)
+
+## vscode 开放插件
+
+* [官网](https://open-vsx.org)
+* [开放接口](https://open-vsx.org/swagger-ui/index.html#/registry-api/getExtension)
