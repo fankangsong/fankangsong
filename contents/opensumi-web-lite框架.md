@@ -12,3 +12,7 @@
 - BrowserFS 基于浏览器的文件系统，相关文档：
     - https://github.com/jvilk/BrowserFS
     - https://jvilk.com/browserfs/2.0.0-beta/index.html
+- di
+    - 什么是 di (depentecy injection)
+    - di 是 IOC 的一种实现
+    - [前端中的 IoC 理念](https://juejin.cn/post/6844903750843236366) 
