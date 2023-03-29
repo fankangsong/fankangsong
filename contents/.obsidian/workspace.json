@@ -11,12 +11,8 @@
             "id": "7d584ea018939762",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-wall/一键 V2ray websocket + TLS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-wall/一键 V2ray websocket + TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-wall/一键 V2ray websocket + TLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the-wall/一键 V2ray websocket + TLS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +137,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7d584ea018939762",
+  "active": "f2dc4a1e79a4753d",
   "lastOpenFiles": [
-    "test.md.md",
     "the-wall/一键 V2ray websocket + TLS.md",
+    "test.md.md",
     "yarn global add 在 Windows 下无法工作的解决办法.md",
     "未命名.canvas",
     "web-IDE技术调研/opensumi环境相关.md",
