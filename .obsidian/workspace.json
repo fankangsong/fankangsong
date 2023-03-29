@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "4601fd3e95e56236",
+    "id": "45d725c25a13a5a2",
     "type": "split",
     "children": [
       {
-        "id": "e48dbba513e9fbab",
+        "id": "e9f467b6010c98e4",
         "type": "tabs",
         "children": [
           {
-            "id": "373c191ef34736fd",
+            "id": "8cb2319703fd9d7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "web-IDE技术调研/opensumi环境相关.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d59fba9ed86d888",
+    "id": "c56882d05aeec144",
     "type": "split",
     "children": [
       {
-        "id": "d2f0885c9b805b1b",
+        "id": "7607fd1af4afd381",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b1257a3cf9dbed",
+            "id": "f2dc4a1e79a4753d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "7822cb9d40f14df3",
+            "id": "823ff59c9d05b7fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "21ab67efd6e1eb71",
+            "id": "36ef113be77fdd51",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "52527ceb4f0dcfff",
+    "id": "409a399d029dab55",
     "type": "split",
     "children": [
       {
-        "id": "c08f5e691337830c",
+        "id": "2aa23dcfb44423d8",
         "type": "tabs",
         "children": [
           {
-            "id": "102acba0421a0469",
+            "id": "a0a7769997cab4d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "web-IDE技术调研/opensumi环境相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "2ee721358c355a7f",
+            "id": "100410efab93334d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "web-IDE技术调研/opensumi环境相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8188ee971c038bcd",
+            "id": "75394be1b1c265ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "7b788a6976cb1969",
+            "id": "6583f9e2e90ae253",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "web-IDE技术调研/opensumi环境相关.md"
+              }
             }
           }
         ]
@@ -138,6 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "373c191ef34736fd",
-  "lastOpenFiles": []
+  "active": "8cb2319703fd9d7b",
+  "lastOpenFiles": [
+    "web-IDE技术调研/web-IDE技术调研.md",
+    "web-IDE技术调研/opensumi环境相关.md",
+    "web-IDE技术调研/opensumi-web-lite框架.md",
+    "the-wall/一键 V2ray websocket + TLS.md",
+    "test.md.md",
+    "yarn global add 在 Windows 下无法工作的解决办法.md",
+    "未命名.canvas",
+    "the-wall"
+  ]
 }
