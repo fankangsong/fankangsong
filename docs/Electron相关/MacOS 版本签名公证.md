@@ -76,7 +76,7 @@ https://github.com/electron-userland/electron-builder/issues/7000
 
 ## 分析公证失败的错误
 
-根据以上错误信息，首先我着手解决应用包内这几个二进制文件的签名，我们发布的应用时基于 electron-builder 打包的，语法发现文档（https://www.electron.build/configuration/mac）有一个字段可以对特定二进制文件进行签名：
+根据以上错误信息，首先我着手解决应用包内这几个二进制文件的签名，我们发布的应用时基于 electron-builder 打包的，发现文档（https://www.electron.build/configuration/mac）有一个字段可以对特定二进制文件进行签名：
 
 	`binaries`: Array<String> | “undefined” - Paths of any extra binaries that need to be signed.
 
