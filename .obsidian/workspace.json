@@ -11,8 +11,12 @@
             "id": "003b66fe62a58a20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md"
+              }
             }
           }
         ]

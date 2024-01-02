@@ -32,7 +32,7 @@ authpriv.warn dropbear[15168]: Login attempt for nonexistent user
 
 用鼠标拖拽下图中红色按钮，把以上2个规则放到通信规则的最上面，否则可能不生效。
 
-![[rules.png]]
+![](rules.png)
 
 ## 最后，验证
 
