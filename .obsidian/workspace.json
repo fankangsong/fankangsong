@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09b11e1ab865e0ba",
+        "id": "2d9df956c9310d54",
         "type": "tabs",
         "children": [
           {
-            "id": "003b66fe62a58a20",
+            "id": "bb41367456464778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md"
+                "file": "README.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +145,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "003b66fe62a58a20",
+  "active": "bb41367456464778",
   "lastOpenFiles": [
-    "openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
     "docs/openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
+    "README.md",
+    "docs/web-IDE技术调研/opensumi环境相关.md",
+    "openwrt-firewall-setting/用 openwrt 通信规则（traffic rules）阻止来源IP入站.md",
     "docs/openwrt-firewall-setting/rules.png",
     "docs/openwrt-firewall-setting/rules-incoming-2.png",
     "docs/openwrt-firewall-setting/rules-incoming-1.png",
@@ -164,7 +165,6 @@
     "openwrt-firewall-setting",
     "docs/web-IDE技术调研/web-IDE技术调研.md",
     "docs/未命名",
-    "docs/web-IDE技术调研/opensumi环境相关.md",
     "docs/web-IDE技术调研/opensumi-web-lite框架.md"
   ]
 }
